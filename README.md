@@ -25,3 +25,4 @@
 
 Другов Артём Владимирович
 ЭФБО-17-25
+GitHub Pages: https://marceline-ad.github.io/kr1-html-css-shop/
