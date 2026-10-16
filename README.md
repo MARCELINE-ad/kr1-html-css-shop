@@ -31,7 +31,7 @@
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://github.com/MARCELINE-ad/kr1-html-css-shop
+[GitHub Pages: https://github.com/MARCELINE-ad/kr1-html-css-shop](https://marceline-ad.github.io/kr1-html-css-shop/)
 
 ## Постановка контрольной работы №1
 
